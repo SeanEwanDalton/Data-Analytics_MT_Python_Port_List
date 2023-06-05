@@ -1,0 +1,11 @@
+_,Country,Port_Name,UN_Code,Vessels_in_Port,Departures_Last_24_Hours_,Arrivals_Last_24_Hours_,Expected_Arrivals,Type,Area_Local,Area_Global,Also_known_as
+12,Netherlands,AMSTERDAM,NLAMS,767,179,228,131,Port,North Sea,UK Coast & Atlantic,['NLAMS']
+15,Belgium,ANTWERP,BEANR,686,211,247,187,Port,Antwerp Area,UK Coast & Atlantic,"['ANTWERPEN', ' BEANT', ' ANVERS', ' BEAAA']"
+56,Netherlands,ROTTERDAM WAALHAVEN,NLWAL,260,148,184,6,Port,Rotterdam Area,UK Coast & Atlantic,"['HEIJPLAAT', ' WAALHAVEN']"
+66,Netherlands,ENKHUIZEN,NLENK,221,188,196,2,Port,North Sea,UK Coast & Atlantic,['-']
+71,Netherlands,HARLINGEN,NLHAR,200,83,129,34,Port,North Sea,UK Coast & Atlantic,['WADDENZEE']
+79,Netherlands,ROTTERDAM,NLRTM,179,199,193,336,Port,Rotterdam Area,UK Coast & Atlantic,"['MAASDIJK', ' EUROPOORT', ' RDAM', ' DINTELHAVEN']"
+82,Belgium,GHENT,BEGNE,176,86,74,42,Port,Antwerp Area,UK Coast & Atlantic,"['GENT', ' BEGGG']"
+89,Netherlands,DORDRECHT,NLDOR,170,86,100,10,Port,Rotterdam Area,UK Coast & Atlantic,"['DORDT', ' DORDRECT']"
+93,United Kingdom,PLYMOUTH,GBPLY,168,40,72,9,Port,English Channel,UK Coast & Atlantic,['-']
+106,Netherlands,ROTTERDAM BOTLEK,NLBOT,150,160,172,11,Port,Rotterdam Area,UK Coast & Atlantic,"['BOTLEK', ' E PETROLEUMHAV']"
